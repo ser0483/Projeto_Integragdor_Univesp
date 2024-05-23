@@ -1,1 +1,1 @@
-Este é um projeto integrador do grupo de Tecnologia da Informação da Univesp, que visa o gerenciamento de estoque de produtos de limpeza em condominio, bem como o auxílio na aquisição de novos produtos
+Este é um projeto integrador do grupo de Tecnologia da Informação da Univesp, que visa o gerenciamento de estoque de produtos de limpeza em condominios, bem como o auxílio na aquisição de novos produtos
